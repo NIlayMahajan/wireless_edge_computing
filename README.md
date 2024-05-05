@@ -1,7 +1,7 @@
 # Edge Computing Project
 Student Name:-Nilay Mahajan  Sudent Number:-23211073
 
-Student Name:-Emuru Geyasree  Sudent Number:-23211073
+Student Name:-Emuru Geyasree  Sudent Number:-23205845
 
 # Introduction:
 5G networks demand ultra-low latency and higher bandwidth, driving the emergence of edge computing paradigms like MEC and Fog computing. These bring storage and processing capabilities closer to mobile networks, enabling versatile services for IoT deployments. Lightweight virtualization enhances edge infrastructure, while mobile offloading extends battery life and enables sophisticated services beyond device capabilities, defining the future of edge computing.
